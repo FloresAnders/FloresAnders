@@ -32,13 +32,33 @@
 
 ---
 
-### 📊 GitHub Analytics
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FloresAnders&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FloresAnders&layout=compact&langs_count=8&theme=algolia" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=FloresAnders&theme=dark" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/FloresAnders">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloresAnders&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/FloresAnders">
+          <img align="center" src="https://streak-stats.demolab.com?user=FloresAnders&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
+<br />
+
 
 ---
 
