@@ -1,9 +1,11 @@
-<p align="center">
-  <img src="./assets/Hand%20Wave.gif" width="40" alt="Wave" align="left" />
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="40" alt="Night Coding" align="right" />
+<p align="items-center">
+  <img src="./assets/Hand%20Wave.gif" width="40" alt="Wave" align="center" />
   <h2>Hey there! I'm <strong>Anders</strong></h2>
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="270" alt="Night Coding" align="center" />
 </p>
 <br clear="both" />
+
+
 
 ---
 
@@ -24,7 +26,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
