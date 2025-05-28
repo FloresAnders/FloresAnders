@@ -7,34 +7,9 @@
 <br clear="both" />
 
 ---
-### 👨🏻‍💻 About Me
-
-- 💡 I love exploring new technologies and crafting quick software hacks.
-- 🌱 Currently diving deeper into Artificial Intelligence and Systems Design.
-- ✍️ In my free time, I enjoy Graphic Design and writing blogs.
-- 💬 Always open for pro bono consulting, volunteering, or a good tech chat.
-- ✉️ Shoot me an email at <a href="mailto:anders.flores.morales@est.una.ac.cr">anders.flores.morales@est.una.ac.cr</a> and I'll get back ASAP.
-
----
-
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-
----
 
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-
 <table width="100%">
   <tr>
     <td width="50%">
@@ -59,8 +34,30 @@
 </table>
 <br />
 
+---
+
+### 👨🏻‍💻 About Me
+
+- 💡 I love exploring new technologies and crafting quick software hacks.
+- 🌱 Currently diving deeper into Artificial Intelligence and Systems Design.
+- ✍️ In my free time, I enjoy Graphic Design and writing blogs.
+- 💬 Always open for pro bono consulting, volunteering, or a good tech chat.
+- ✉️ Shoot me an email at <a href="mailto:anders.flores.morales@est.una.ac.cr">anders.flores.morales@est.una.ac.cr</a> and I'll get back ASAP.
 
 ---
+
+### 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 
 ### 🤝🏻 Connect with Me
 
