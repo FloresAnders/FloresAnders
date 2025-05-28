@@ -41,7 +41,7 @@
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/FloresAnders">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloresAnders&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=FloresAnders&count_private=true&show_icons=true&theme=great-gatsby" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -49,7 +49,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/FloresAnders">
-          <img align="center" src="https://streak-stats.demolab.com?user=FloresAnders&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=FloresAnders&theme=youtube-dark" alt="Streak Stats" />
         </a>
       </p>
     </td>
