@@ -7,7 +7,6 @@
 <br clear="both" />
 
 ---
-
 ### 👨🏻‍💻 About Me
 
 - 💡 I love exploring new technologies and crafting quick software hacks.
