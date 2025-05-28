@@ -6,8 +6,6 @@
 </p>
 <br clear="both" />
 
-
-
 ---
 
 ### 👨🏻‍💻 About Me
