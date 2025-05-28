@@ -1,7 +1,8 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
 <p align="items-center">
   <img src="./assets/Hand%20Wave.gif" width="40" alt="Wave" align="center" />
-  <h2>Hey there! I'm <strong>Anders</strong></h2>
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="270" alt="Night Coding" align="center" />
+  <h1 align="center">Hi 👋, I'm Anders <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 </p>
 <br clear="both" />
 
