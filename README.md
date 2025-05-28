@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="mailto:anders.flores.morales@est.una.ac.cr"><img src="https://img.shields.io/badge/anders.flores.morales@est.una.ac.cr-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/flores_anders_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/anders.floresmorales"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://instagram.com/flores_anders_"><img src="https://img.shields.io/badge/flores_anders_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/anders.floresmorales"><img src="https://img.shields.io/badge/anders.floresmorales-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
