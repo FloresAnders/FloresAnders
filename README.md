@@ -36,13 +36,16 @@
 
 ---
 
-### 👨🏻‍💻 About Me
-
-- 💡 I love exploring new technologies and crafting quick software hacks.
-- 🌱 Currently diving deeper into Artificial Intelligence and Systems Design.
-- ✍️ In my free time, I enjoy Graphic Design and writing blogs.
-- 💬 Always open for pro bono consulting, volunteering, or a good tech chat.
-- ✉️ Shoot me an email at <a href="mailto:anders.flores.morales@est.una.ac.cr">anders.flores.morales@est.una.ac.cr</a> and I'll get back ASAP.
+<section>
+  <h3>👨🏻‍💻 About Me</h3>
+  <ul>
+    <li>💡 Passionate about solving problems with practical and thoughtful solutions, especially in social or educational projects.</li>
+    <li>🌱 Currently diving deeper into Systems Engineering, app development, website development and databases.</li>
+    <li>✍️ In my free time, I enjoy improving personal projects, helping classmates, and self-learning new technologies.</li>
+    <li>💬 Always open to collaborate, support meaningful initiatives, or simply have a good chat about tech and learning.</li>
+    <li>✉️ Feel free to reach out at <a href="mailto:anders.flores.morales@est.una.ac.cr">anders.flores.morales@est.una.ac.cr</a> — I'll get back to you soon!</li>
+  </ul>
+</section>
 
 ---
 
