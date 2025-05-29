@@ -49,32 +49,42 @@
 
 ---
 
+<div align="center">
+
 ### 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+<img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518" />
+<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" />
+<img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" />
+<img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🤝🏻 Connect with Me
 
-<p align="center">
-  <a href="mailto:anders.flores.morales@est.una.ac.cr">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/FloresAnders" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/FloresAnders" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/flores_anders_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+
+<a href="mailto:anders.flores.morales@est.una.ac.cr">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/FloresAnders" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/FloresAnders" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://instagram.com/flores_anders_" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+</div>
