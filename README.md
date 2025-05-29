@@ -36,16 +36,16 @@
 
 ---
 
-<section>
-  <h3>👨🏻‍💻 About Me</h3>
-  <ul>
+<div style="text-align: center;">
+  <h2 align="center">👨🏻‍💻 About Me</h2>
+  <ul style="display: inline-block; text-align: left;">
     <li>💡 Passionate about solving problems with practical and thoughtful solutions, especially in social or educational projects.</li>
-    <li>🌱 Currently diving deeper into Systems Engineering, app development, website development and databases.</li>
+    <li>🌱 Currently diving deeper into Systems Engineering, educational app development, and mobile databases.</li>
     <li>✍️ In my free time, I enjoy improving personal projects, helping classmates, and self-learning new technologies.</li>
     <li>💬 Always open to collaborate, support meaningful initiatives, or simply have a good chat about tech and learning.</li>
     <li>✉️ Feel free to reach out at <a href="mailto:anders.flores.morales@est.una.ac.cr">anders.flores.morales@est.una.ac.cr</a> — I'll get back to you soon!</li>
   </ul>
-</section>
+</div>
 
 ---
 
